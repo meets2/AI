@@ -63,7 +63,7 @@
     transition: 0.5s;
 }
 .btn:hover{
-    color: #f034cd;
+    color: grey;
     background-color: #fff  ;
 }
 @media(max-width:700px)
